@@ -1,0 +1,41 @@
+1. Theory
+	xml, DOM, json, dom parser, sax parser, html intro, download file (2h)
+	https://www.youtube.com/watch?v=qoh7wTerjnw&index=4&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7
+
+	json, xml, GSon library, selectors: XPath, CSS. JSoup library. JUnit intro. PrivatApi example (2h)
+	https://www.youtube.com/watch?v=meFn0rhsanw&index=5&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7
+
+
+	System Variables, PATH, JAVA_HOME, MAVEN ,client server (2h)
+	https://www.youtube.com/watch?v=0YaGTxt6Zq4&index=7&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7
+	
+
+2. 1,5 hour Regexp
+	https://regexone.com/
+
+3. Little tasks for(if you will have a free tim)()
+	1. Serialize object using refelection wihtout external libs to a
+	a) json 
+	b) xml
+
+	2. Download files from the inet (ex.ua album page)
+	1) download page (gsoup)
+	2) find links(via xpath, css selector, regexp)
+	3) use queue for download task
+	
+	3. write tests for above tasks using JUnit
+
+	4. add maven architecture to your homework repository
+	load libraries via maven
+
+	5. Little client server
+	send message as json objects
+
+	6. Write liitle http client for GitHub Api
+		use HttpClient or GitHubApi library
+		
+	functional:
+		do fork:  https://developer.github.com/v3/repos/forks/
+	
+
+
