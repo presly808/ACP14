@@ -1,0 +1,16 @@
+1. Multithreading
+
+	(2,3 h) https://www.youtube.com/watch?v=02QgLWj79Iw&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7&index=8
+
+	(2,15 h) https://www.youtube.com/watch?v=WO41PnWJ7bk&index=9&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7
+
+2. Multithreading tasks(4 h)
+https://github.com/YanchevskayaAnna/ACP14SimpleTasks/tree/master/src/multithreading
+
+2.1. Logging
+https://www.youtube.com/v/EBg_NQA25R8?start=0&end=4360&version=3 (1,2 h)
+
+2.2 write junit tests for above tasks(2 h)
+
+3*.(3 h) Implement maven plugin that helps to run our classes that were marked by ours custom annotation(Test)
+task for our project

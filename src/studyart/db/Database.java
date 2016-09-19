@@ -6,9 +6,6 @@ import java.util.Collection;
 import java.util.Map;
 import java.util.TreeMap;
 
-/**
- * Created by serhii on 04.09.16.
- */
 public class Database {
 
     private static long nextId = 0;

@@ -5,16 +5,14 @@
 	json, xml, GSon library, selectors: XPath, CSS. JSoup library. JUnit intro. PrivatApi example (2h)
 	https://www.youtube.com/watch?v=meFn0rhsanw&index=5&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7
 
-
 	System Variables, PATH, JAVA_HOME, MAVEN ,client server (2h)
 	https://www.youtube.com/watch?v=0YaGTxt6Zq4&index=7&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7
-	
 
 2. 1,5 hour Regexp
 	https://regexone.com/
 
 3. Little tasks for(if you will have a free tim)()
-	1. Serialize object using refelection wihtout external libs to a
+	1. Serialize object using reflection without external libs to a
 	a) json 
 	b) xml
 
