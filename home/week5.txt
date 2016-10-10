@@ -1,0 +1,15 @@
+1. Finish prev task (Student) (4 hours)
+
+	+ Architecture
+		Service -> Dao -> Db
+	+ Design Pattern Dao
+	+ JUint test
+	+ Logging (Log4J)
+
+2. JPA + Hibernate (5 hours)
+	https://www.youtube.com/watch?v=f538q-B48R4&list=PLvmHg49t5OCRQAWSXCl-4XQ-5blr0CH6B&index=22
+	https://www.youtube.com/watch?v=EBg_NQA25R8&list=PLvmHg49t5OCRQAWSXCl-4XQ-5blr0CH6B&index=23
+
+3. Make notes while watching video or reading something. Dont forget to repeat video actions.
+
+4. Rewrite Student task using jpa + hibernate
