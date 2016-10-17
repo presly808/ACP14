@@ -1,0 +1,23 @@
+1. Spring
+
+	video(7 hours)
+	https://www.youtube.com/watch?v=yvodzkLfZHs&list=PLvmHg49t5OCRQAWSXCl-4XQ-5blr0CH6B&index=24
+	
+
+2. Add spring architecture to your project
+	must be
+	-xml configuration 
+		-load properties into the context
+		-entityManagerFactory
+		-transactionManager (add declarative transaction controll)
+	-annotation configuration
+		create your beans via annotation and also do injections
+	-add aop suport
+		-do logging
+		-set up transactionManager
+	-create context for tests
+		use SpringJunitRunner
+			it helps to use spring annotations with JUnit
+
+3. Please, show me yours progress step by step
+	Before do something, watch the video
