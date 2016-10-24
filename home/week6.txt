@@ -2,6 +2,7 @@
 
 	video(7 hours)
 	https://www.youtube.com/watch?v=yvodzkLfZHs&list=PLvmHg49t5OCRQAWSXCl-4XQ-5blr0CH6B&index=24
+	https://www.youtube.com/watch?v=2pEvy3E-oI0&list=PLvmHg49t5OCRQAWSXCl-4XQ-5blr0CH6B&index=25
 	
 
 2. Add spring architecture to your project
