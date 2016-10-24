@@ -11,15 +11,14 @@
 2. 1,5 hour Regexp
 	https://regexone.com/
 
-3. Little tasks for(if you will have a free tim)()
+3. Little tasks for(if you will have a free time
 	1. Serialize object using reflection without external libs to a
-	a) json 
-	b) xml
+	a) json (finish classwork)
 
 	2. Download files from the inet (ex.ua album page)
 	1) download page (gsoup)
-	2) find links(via xpath, css selector, regexp)
-	3) use queue for download task
+	2) find links(css selector, regexp)
+	3) use queue for downloading tasks
 	
 	3. write tests for above tasks using JUnit
 
@@ -28,12 +27,3 @@
 
 	5. Little client server
 	send message as json objects
-
-	6. Write liitle http client for GitHub Api
-		use HttpClient or GitHubApi library
-		
-	functional:
-		do fork:  https://developer.github.com/v3/repos/forks/
-	
-
-
