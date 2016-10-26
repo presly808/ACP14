@@ -3,8 +3,8 @@
 
 	https://www.youtube.com/watch?v=2bE3EMae-eA&index=17&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7
 
-2. JS 4 hours 
-	https://www.youtube.com/watch?v=Xnoz1dbB9A0&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7&index=20
+2. JS 4 hours
+	https://www.youtube.com/playlist?list=PLvmHg49t5OCQpQkdr3r0n9ZcDdoelHfro
 
 3. Ajax 2 hours
 	https://www.youtube.com/watch?v=Xnoz1dbB9A0&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7&index=20
