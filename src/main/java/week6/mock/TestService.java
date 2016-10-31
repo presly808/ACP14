@@ -1,9 +1,12 @@
 package week6.mock;
 
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 import static org.mockito.Mockito.*;
 /**
@@ -18,22 +21,28 @@ public class TestService {
     @Before
     public void before(){
         dao = mock(Dao.class);
-
-        when(dao.find("B")).thenReturn(Arrays.asList("Bogdan","Bodia","Bod"));
-        when(dao.find(anyString())).thenReturn(Arrays.asList("Bogdan","Bodia","Bod","asdfa", "asdfxcv",""));
-
         remoteApi = mock(RemoteApi.class);
-        when(remoteApi.getNames())
 
+        //when(dao.find("A")).thenReturn(Arrays.asList("Anton","Anatoliy"));
+        List<String> list = new ArrayList<>();
+        list.add("Anton");
+        list.add("Anatoliy");
 
-        service = new Service()
+        when(dao.find(anyString())).thenReturn(list);
+
+        when(remoteApi.getNames(anyString())).thenReturn(Arrays.asList("Andrey", "Alex"));
+
+        service = new Service(dao,remoteApi);
     }
 
     @Test
     public void testService(){
+        List<String> names = service.search("A", true);
 
+        verify(dao).find(anyString());
+        verify(remoteApi).getNames(anyString());
 
-
+        Assert.assertEquals(4, names.size());
     }
 
 

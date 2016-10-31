@@ -15,18 +15,16 @@ class Service {
         this.remoteApi = remoteApi;
     }
 
-    public List<String> login(String key, boolean sortAsc) {
+    public List<String> search(String key, boolean sortAsc) {
         // preprocess key
         List<String> namesLocal = dao.find(key);
         List<String> namesRemote = remoteApi.getNames(key);
 
-        namesLocal.addAll(namesRemote);
+        namesRemote.stream().forEach(namesLocal::add);
 
         namesLocal.sort(String::compareTo);
 
         return namesLocal;
-
-
     }
 
 

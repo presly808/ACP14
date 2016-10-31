@@ -1,0 +1,14 @@
+Hi guys, you are  coming the end of the course)
+I hope you find an energy to perform all tasks for get full knowledges
+
+Week's topics
+1. Web Services
+  (2hours)
+  https://www.youtube.com/watch?v=KIdn669PFdE&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7&index=18
+  (2 hours)
+  https://www.youtube.com/watch?v=S11OLY68CME&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7&index=19
+
+  practical (4 hours)
+
+2. create a separate module which contains integration tests for RESTful Services
+  take RestAssured library
