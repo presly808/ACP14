@@ -1,0 +1,10 @@
+0. Finish multi-threading tasks
+
+1. Video
+(2,3 hours)  https://www.youtube.com/watch?v=kspT0ztRo7w&index=10&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7
+(2 hours) https://www.youtube.com/watch?v=1--XMKbstVQ&index=11&list=PLvmHg49t5OCSTcNLL4Hti29nXPueU8Wt7
+https://youtu.be/fmCrtNAxIOo?list=PLvmHg49t5OCRQAWSXCl-4XQ-5blr0CH6B&t=3563
+
+2. (5 hours)
+	http://www.sqlcourse.com/intro.html
+	http://www.sqlcourse2.com/joins.html
